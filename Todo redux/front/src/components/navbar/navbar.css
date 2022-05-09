@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+.navbar{
+    background-color: rgb(151, 111, 119);
+    padding: 15px;
+}
+
+.navbar-info{
+    display: flex;
+}
+
+.nav-links{
+    
+    
+}
+
+.nav-links a{
+   margin-left: 50px;
+   color:white;
+   font-weight: 600;
+   letter-spacing: 1px;
+}
+
+.nav-title{
+    width: 30%;    
+    margin-left: 10%;
+}
+
+.nav-title p{
+    color: white;
+    font-weight: 700;
+}
